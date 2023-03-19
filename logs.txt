@@ -1,0 +1,37 @@
+C:\Users\User\Documents\git vezbanje\SI_2023_lab1_213091>git log
+commit 45063137694a34d264e10877f208ded7fe6e73de (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Walkorion <stefantosev15@gmail.com>
+Date:   Sun Mar 19 15:46:18 2023 +0100
+
+    FIx method in sumEvenNumbers
+
+commit 31a6e97455b58160765a2cbf31059d10e8c182fc
+Merge: 3b66bf9 93c330b
+Author: Walkorion <stefantosev15@gmail.com>
+Date:   Sun Mar 19 15:49:22 2023 +0100
+
+    Merge branch 'bug2'
+
+commit 93c330b10caa7c382350f68e3fa797e6476412db (origin/bug2, bug2)
+Author: Walkorion <stefantosev15@gmail.com>
+Date:   Sun Mar 19 15:45:22 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 3b66bf988468d0eb9504b359fbda2a08fe389576 (origin/bug1, bug1)
+Author: Walkorion <stefantosev15@gmail.com>
+Date:   Sun Mar 19 15:44:15 2023 +0100
+
+    Fix wrong loop for reading
+
+commit 245d12f182438402bdde6fcb004c9eb3ee36769c
+Author: Walkorion <stefantosev15@gmail.com>
+Date:   Sun Mar 19 15:42:35 2023 +0100
+
+    Add java class
+
+commit 38fe76979d7a37fc310b5169aa4e6b76e9a0972a
+Author: Walkorion <stefantosev15@gmail.com>
+Date:   Sun Mar 19 15:41:04 2023 +0100
+
+    Initial commit
